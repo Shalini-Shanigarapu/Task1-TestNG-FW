@@ -1,1 +1,0 @@
-{"uuid":"e8b040f1-c05a-4ec9-8bd6-157ffe9d89d4","name":"com.learn.Tests.CreateAccountAndWishlist","children":["2cba3ac9-060d-4d05-97e5-8b206fbae9b5"],"befores":[{"name":"initialize","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716017602585,"stop":1716017605332}],"afters":[],"start":1716017602536,"stop":1716017712034}

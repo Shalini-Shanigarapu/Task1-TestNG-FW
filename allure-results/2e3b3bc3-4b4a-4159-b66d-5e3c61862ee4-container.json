@@ -1,1 +1,0 @@
-{"uuid":"2e3b3bc3-4b4a-4159-b66d-5e3c61862ee4","name":"com.learn.Tests.LoginAndAddCart","children":["75dec461-a4d7-4dc4-95e0-9e9e0d751acc"],"befores":[{"name":"initialize","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716017227252,"stop":1716017229079}],"afters":[],"start":1716017141650,"stop":1716017340206}
