@@ -1,0 +1,1 @@
+{"uuid":"6922a054-2744-459c-b584-b33312410da0","name":"Smoke Suite","children":["17e98727-6f5f-4203-8943-d9a1f80c8fc4"],"befores":[{"name":"initialize","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715847631019,"stop":1715847633806}],"afters":[],"start":1715847630992,"stop":1715847653280}

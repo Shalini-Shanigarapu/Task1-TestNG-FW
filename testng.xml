@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Shalini/SeleniumPractice/PoundLandTFW/src/test/java/com/learn/Tests">
+        <parameter name="browserType" value="chrome"></parameter>
+        <parameter name="url" value="https://www.poundland.co.uk/"></parameter>
+        <classes>
+            <class name="com.learn.Tests.CreateAccountAndWishlist">
+                <methods>
+                    <include name="wishlist"/>
+                </methods>
+            </class>
+            <class name="com.learn.Tests.LoginAndAddCart">
+                <methods>
+                    <include name="loginCart"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
